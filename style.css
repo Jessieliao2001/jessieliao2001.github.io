@@ -125,7 +125,7 @@ footer a:focus-visible {
 }
 
 .page-intro h1 {
-  margin-bottom: 28px;
+  margin-bottom: 0;
 }
 
 .page-content {
